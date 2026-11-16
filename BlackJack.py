@@ -382,7 +382,7 @@ if __name__ == "__main__":
 # --- EMBEDDED_STATS_START ---
 # {
 #   "wins": 0,
-#   "losses": 6,
+#   "losses": 0,
 #   "pushes": 0,
 #   "balance": 0.5
 # }
